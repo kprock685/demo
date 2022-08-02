@@ -4,10 +4,10 @@ def sub(x,y):
     return x-y
 def mul(x,y):
     a = x + y
-    return x***y
+    return x*y
 def div(x,y):
-    return x///y
-print("option 1,2,3,4")
+    return x/y
+    print("option 1,2,3,4")
 n1 = float(input("n1 "))
 n2 = float(input("n2 "))
 while 1:
