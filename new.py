@@ -3,7 +3,8 @@ def add(x,y):
 def sub(x,y):
     return x-y
 def mul(x,y):
-    return x**y
+    a = x + y
+    return x***y
 def div(x,y):
     return x/y
 print("option 1,2,3,4")
